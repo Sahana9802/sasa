@@ -1,0 +1,113 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+intro{
+  width:30%;
+  margin:auto;
+}
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 40%;
+  margin: 100px auto;
+}
+.Sahana{
+
+  width:350px;
+  height:300px;
+  border-radius: 100%;
+}
+
+
+.deepLearning{
+  width:25%;
+  height:25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+.books{
+  width:45%;
+  height:45%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+h1{
+ margin: 50px auto 0 auto;
+ font-size: 5.625rem;
+ font-family: 'Sacramento', cursive;
+ color: #66BFBF;
+
+}
+
+h2{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+}
+.footer-link{
+  margin-top: 50px;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+
+}
+
+
+  .TopContainer{
+    background-color: #F0F8FF;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+  }
+
+  .middle-container{
+    margin: 100px 0;
+
+  }
+
+  .bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+
+  }
+
+  .bottomCloud{
+    position: absolute;
+    left:300px;
+    bottom: 300px;
+
+  }
+
+  .topCloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+  }
